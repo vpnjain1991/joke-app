@@ -1,4 +1,4 @@
-package com.vipin.jokeApp.config;
+package com.vipin.config;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.context.annotation.Bean;

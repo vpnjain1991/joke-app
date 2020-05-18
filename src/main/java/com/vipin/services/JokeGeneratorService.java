@@ -1,4 +1,4 @@
-package com.vipin.jokeApp.services;
+package com.vipin.services;
 
 public interface JokeGeneratorService {
     String getRandomJoke();

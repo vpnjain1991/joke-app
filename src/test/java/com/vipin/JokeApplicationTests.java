@@ -1,10 +1,10 @@
-package com.vipin.jokeApp;
+package com.vipin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JokeAppApplicationTests {
+class JokeApplicationTests {
 
 	@Test
 	void contextLoads() {

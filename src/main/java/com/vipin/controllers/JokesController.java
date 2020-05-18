@@ -1,6 +1,6 @@
-package com.vipin.jokeApp.controllers;
+package com.vipin.controllers;
 
-import com.vipin.jokeApp.services.JokeGeneratorService;
+import com.vipin.services.JokeGeneratorService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
